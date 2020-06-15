@@ -1,6 +1,6 @@
 # Programming
 
-## Prograaming questions to practice by **Take u forward**
+## Programing questions in data structures to practice by **Take u forward**
 
 ## Day1: (Arrays)
 
