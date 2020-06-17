@@ -3,7 +3,7 @@
 2. Inplace
 '''
 
-def setZeroes(self, matrix: List[List[int]]) -> None:
+def setZeroes(matrix):
         """
         Do not return anything, modify matrix in-place instead.
         """
